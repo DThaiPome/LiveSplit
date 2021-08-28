@@ -98,3 +98,6 @@
 [submodule "LiveSplit/Components/LiveSplit.PostPreviousSegment"]
 	path = LiveSplit/Components/LiveSplit.PostPreviousSegment
 	url = https://github.com/DThaiPome/LiveSplit.PostPreviousSegment.git
+[submodule "LiveSplit/Components/LiveSplit.WrPaceReporter"]
+	path = LiveSplit/Components/LiveSplit.WrPaceReporter
+	url = https://github.com/DThaiPome/LiveSplit.WrPaceReporter.git
